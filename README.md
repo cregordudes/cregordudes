@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Egor (@cregordudes)
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning to efficientlty use React & Typescript
+- 🌱 I’m currently learning to efficiently use React & Typescript
 - 💞️ I’m looking to collaborate on a daily basis with a great team
 - 📫 How to reach me  - https://cregordudes.com/
 
